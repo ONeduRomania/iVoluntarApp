@@ -1,7 +1,0 @@
-rootProject.name = 'iVoluntarApp'
-include 'Persistence'
-include 'Domain'
-include 'Services'
-include 'Server'
-include 'Controller'
-
